@@ -54,12 +54,7 @@ contact: pponglimagorn@gmail.com
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=porfermat&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6AD3F7&icon_color=6AD3F7&text_color=ffffff&count_private=true" />
 <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=porfermat&theme=tokyonight&hide_border=true&background=0D1117&ring=6AD3F7&fire=FF6B6B&currStreakLabel=6AD3F7" />
-
-<br/>
-
-<img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=porfermat&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6AD3F7&text_color=ffffff&langs_count=8" />
 
 </div>
 
