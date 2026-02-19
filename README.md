@@ -69,7 +69,7 @@ contact: pponglimagorn@gmail.com
 
 ### ⚙️ Backend & Databases
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=nodejs,python,php,java,mysql,postgresql,mariadb,firebase" />
+  <img src="https://skillicons.dev/icons?i=nodejs,python,php,java,mysql,postgresql,firebase" />
 </p>
 
 ### ☁️ Cloud & DevOps
