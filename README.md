@@ -2,7 +2,7 @@
 <h3 align="center">Welcome to my digital portfolio. I am Poramat Ponglimagorn, a specialist in Digital Engineering. I focus on bridging the gap between physical and digital systems, leveraging technology to solve complex problems and create innovative ventures. My work encompasses modern web technologies, system architecture, and digital transformation strategies.</h3>
 
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=porfermat" alt="porfermat" /></a> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=porfermat&label=Profile%20views&color=0e75b6&style=flat" alt="porfermat" /> </p>
 
 - 🔭 I’m currently working on [CropSight](https://github.com/PorFerMat/CropSight)
 
