@@ -86,7 +86,7 @@ contact: pponglimagorn@gmail.com
 
 ---
 
-## 📈 Contribution Graph.
+## 📈 Contribution Graph
 
 <div align="center">
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=porfermat&bg_color=0D1117&color=6AD3F7&line=6AD3F7&point=FFFFFF&area=true&hide_border=true" width="95%"/>
