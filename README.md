@@ -29,7 +29,6 @@ focus:
   - Cloud Architecture & DevOps
   - Full-Stack Web Development
   - IoT & Embedded Systems
-currently_building: CropSight 🌱
 portfolio: https://ponventure.com
 contact: pponglimagorn@gmail.com
 ```
