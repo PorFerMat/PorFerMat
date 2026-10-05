@@ -83,16 +83,6 @@ contact: pponglimagorn@gmail.com
   <img src="https://img.icons8.com/color/48/000000/pandas.png" width="45" height="45" style="padding:3px"/>
 </p>
 
----
-
-## 📈 Contribution Graph
-
-<div align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=porfermat&bg_color=0D1117&color=6AD3F7&line=6AD3F7&point=FFFFFF&area=true&hide_border=true" width="95%"/>
-</div>
-
----
-
 ## 🌐 Connect With Me
 
 <div align="center">
